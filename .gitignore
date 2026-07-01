@@ -13,9 +13,7 @@ env/
 .env
 .env.*
 
-# Sensor data local only
-data/*
-!data/.gitkeep
+
 
 # Outputs
 outputs/
