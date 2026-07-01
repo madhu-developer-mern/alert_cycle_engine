@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Sensor data local only
+data/*
+!data/.gitkeep
+
+# Outputs
+outputs/
+logs/
+reports/
+
+# ML / notebooks
+models/
+notebooks/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+sensor_id,group_name,temp_min_c,temp_max_c,humidity_min_rh,humidity_max_rh,email,mobile,effective_from
+H4200116,Piller No 7,20,43,10,90,sachin.sawant@algotrack.in,919167709493,1970-01-01 00:00:00
+H4200117,Piller No 3,20,43,10,90,sachin.sawant@algotrack.in,919167709493,1970-01-01 00:00:00
+H4200118,Piller No 1,20,43,10,90,sachin.sawant@algotrack.in,919167709493,1970-01-01 00:00:00
+H4200136,DB Schenker,-11,40,1,90,customersupport@algotrack.in,919167709493,1970-01-01 00:00:00
